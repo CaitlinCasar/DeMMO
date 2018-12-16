@@ -1,0 +1,16 @@
+h1 {
+    width: 80%;
+    margin: 200px auto 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 150px;
+}
