@@ -5,12 +5,12 @@ DeMMO website
 
 #restart nginx server 
 
-service nginx restart
+    service nginx restart
 
 
 #restart shiny server
 
-sudo systemctl restart shiny-server
+    sudo systemctl restart shiny-server
 
 
 
@@ -18,12 +18,12 @@ sudo systemctl restart shiny-server
 
 #DeMMO server-side repo port 443
 
-/var/www/DeMMO
+    /var/www/DeMMO
 
 
 #DeMMO server config (symbiotic link with sites-enabled)
 
-/etc/nginx/sites-available
+    /etc/nginx/sites-available
 
 
 #DeMMO_Shiny server-side repo port 3838
