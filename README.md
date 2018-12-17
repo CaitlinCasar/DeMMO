@@ -28,62 +28,62 @@ DeMMO website
 
 #DeMMO_Shiny server-side repo port 3838
 
-/srv/shiny-server/DeMMO_Shiny
+    /srv/shiny-server/DeMMO_Shiny
 
 
 #Shiny server config
 
-/etc/shiny-server
+    /etc/shiny-server
 
 
 
 ##### ssh into server #####
-ssh username@ip_address
+    ssh username@ip_address
 
 ##### git workflow #####
 
 #list changes in repo
 
-git status
+    git status
 
 
 #add all new files staging - only needed if new files have been added, otherwise skip to commit
 
-git add .
+    git add .
 
 
 #view differences in files
 
-git diff 
+    git diff 
 
 
 #commit all changes in files to staging
 
-git commit -a -m "message"
+    git commit -a -m "message"
 
 
 #sync changes to github repo
 
-git push
+    git push
 
 
 #update server from github repo
 
-git pull 
+    git pull 
 
 
 ##### commands for vim #####
 
 #quit vim
 
-esc + :q
+    esc + :q
 
 
 #save file
 
-esc + :wq
+    esc + :wq
 
 
 #edit a line 
 
-i 
+    i 
