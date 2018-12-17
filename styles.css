@@ -10,12 +10,12 @@ body {
   font-weight: 100;
 }
 
-body.home {
+/* body.home {
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
     background-image: url("microbe_splash.png");
-}
+} */
 
 h1 {
     width: 100%;
