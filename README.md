@@ -89,6 +89,9 @@ DeMMO website
     i 
     
     
+##### style Shiny apps #####
+https://shiny.rstudio.com/articles/css.html
+
 ##### deploy Shiny apps #####
 
 https://www.r-bloggers.com/deploying-your-very-own-shiny-server/
