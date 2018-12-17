@@ -3,10 +3,12 @@ DeMMO website
 
 ##### Dictionary of commands #####
 
-#restart nginx server
+#restart nginx server 
+
 service nginx restart
 
 #restart shiny server
+
 sudo systemctl restart shiny-server
 
 
