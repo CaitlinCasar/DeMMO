@@ -10,20 +10,21 @@ body {
     background-size:cover;
     background-position:center;
     background-image: url("DeMMO_HomeSplash.png");
+    font-family: 'Major Mono Display', monospace;
 }
 
 h1 {
     width: 100%;
     margin: 100px auto 20px;
     text-align: center;
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Major Mono Display', monospace;
 }
 
 p {
     width: 50%;
     margin: 0 auto;
     text-align: center;
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Major Mono Display', monospace;
 }
 img {
     width: 150px;
