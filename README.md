@@ -19,6 +19,7 @@ sudo systemctl restart shiny-server
 /etc/nginx/sites-available
 
 #DeMMO_Shiny server-side repo port 3838
+/srv/shiny-server/DeMMO_Shiny
 
 #Shiny server config
 /etc/shiny-server
