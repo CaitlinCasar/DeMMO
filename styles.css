@@ -11,9 +11,9 @@ body {
 }
 
 body.home {
-    /* background-repeat:no-repeat;
+    background-repeat:no-repeat;
     background-size:cover;
-    background-position:center; */
+    background-position:center;
     background-image: url("microbe_splash.png");
 }
 
