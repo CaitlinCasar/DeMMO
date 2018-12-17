@@ -10,21 +10,26 @@ body {
     background-size:cover;
     background-position:center;
     background-image: url("DeMMO_HomeSplash.png");
-    font-family: 'Major Mono Display', monospace;
+    font-family: font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    ;
 }
 
 h1 {
     width: 100%;
     margin: 100px auto 20px;
     text-align: center;
-    font-family: 'Major Mono Display', monospace;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    ;
 }
 
 p {
     width: 50%;
     margin: 0 auto;
     text-align: center;
-    font-family: 'Major Mono Display', monospace;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
 }
 img {
     width: 150px;
