@@ -87,3 +87,8 @@ DeMMO website
 #edit a line 
 
     i 
+    
+    
+##### deploy Shiny apps #####
+
+https://www.r-bloggers.com/deploying-your-very-own-shiny-server/
