@@ -17,6 +17,7 @@ body {
 
 body.home {
   background-repeat:no-repeat;
+  /* background-position:center; */
   background-image: url("microbe_splash.png");
   text-shadow: none;
   box-shadow: none;
